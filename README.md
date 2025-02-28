@@ -5,7 +5,7 @@
 
 
 ## ⌨ Skills
-- ⭐⭐⭐⭐⭐ Website (HTML, PHP, Laravel) 
+- ⭐⭐⭐⭐⭐ Website     (HTML, PHP, Laravel) 
 - ⭐⭐⭐⭐☆  Database SQL, Oracle 
 - ⭐⭐⭐⭐☆  WindowsForm Programing (C#) 
 - ⭐⭐⭐☆☆   Flutter and React Native 
