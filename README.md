@@ -2,7 +2,8 @@
 
 ## 💻 In Progress Project
 
-[Progress](https://progress-bar.dev/70/)
+![Progress](https://img.shields.io/badge/progress-70%25-brightgreen)
+
 
 
 <!--
