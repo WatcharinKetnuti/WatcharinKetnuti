@@ -12,7 +12,7 @@
 ## ⛳Learning
 - Flutter Lib
 
-### 🗓 Plan to learn
+## 🗓 Plan to learn
 - Blockchain
 - Cloud Tech
 - Security system
