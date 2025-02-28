@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 💻 In Progress Project
+![Progress](https://progress-bar.dev/70/)
+
+
 <!--
 **WatcharinKetnuti/WatcharinKetnuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
