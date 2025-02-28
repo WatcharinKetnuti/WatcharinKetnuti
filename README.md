@@ -4,7 +4,7 @@
 [Flutter Blood Donation app](https://github.com/WatcharinKetnuti/Blood_Donation-Application.git) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
 
 
-### ⌨ Skills
+## ⌨ Skills
 - Website (HTML, PHP, Laravel) ⭐⭐⭐⭐⭐
 - Database SQL, Oracle ⭐⭐⭐⭐☆
 - WindowsForm Programing (C#) ⭐⭐⭐⭐☆
@@ -13,10 +13,9 @@
 - SwiftUI⭐⭐☆☆☆
 
 ### Lerning
+-Flutter Lib
 
-#### Flutter Lib
-
-## 🗓 Plan to lern
+### 🗓 Plan to lern
 -Block chain
 -Cloud Tech
 -Security system
