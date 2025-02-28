@@ -1,9 +1,18 @@
 ## Hi there 👋
 
 ## 💻 In Progress Project
-[Flutter Blood Donation app](https://github.com/WatcharinKetnuti/Blood_Donation-Application.git)
+[Flutter Blood Donation app](https://github.com/WatcharinKetnuti/Blood_Donation-Application.git) (https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
 
-![Progress](https://img.shields.io/badge/progress-70%25-brightgreen)
+
+## ⌨ Skill
+- PHP, Laravel ![Progress](https://img.shields.io/badge/progress-90%25-brightgreen)
+
+## 🗓 Plan to lern
+-Block chain
+-Cloud Tech
+-Security system
+-System testing
+
 
 
 
