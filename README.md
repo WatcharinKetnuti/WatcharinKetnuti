@@ -1,3 +1,9 @@
+## Hi there 👋
+You can call me boss uhmm     i mean boss is my nickname ♪(´▽｀) 
+I am from Thailand 🟥⬜🟦⬜🟥
+
+Interested in Mobile App Development & Website   [Software Enginering]
+
 
 ## 💻 In Progress Project
 [Flutter Blood Donation app](https://github.com/WatcharinKetnuti/Blood_Donation-Application.git) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
@@ -17,6 +23,7 @@
 
 ## ⛳Learning
 - Flutter Lib
+- English
 
 ### 🗓 Plan to learn
 - Blockchain
