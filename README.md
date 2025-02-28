@@ -12,7 +12,7 @@
 - Flutter and React Native ⭐⭐⭐☆☆
 - SwiftUI⭐⭐☆☆☆
 
-### Lerning
+## Lerning
 -Flutter Lib
 
 ### 🗓 Plan to lern
