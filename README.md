@@ -5,12 +5,12 @@
 
 
 ## ⌨ Skills
-- Website (HTML, PHP, Laravel) ⭐⭐⭐⭐⭐
-- Database SQL, Oracle ⭐⭐⭐⭐☆
-- WindowsForm Programing (C#) ⭐⭐⭐⭐☆
-- Flutter and React Native ⭐⭐⭐☆☆
-- Flutter and React Native ⭐⭐⭐☆☆
-- SwiftUI⭐⭐☆☆☆
+- ⭐⭐⭐⭐⭐ Website (HTML, PHP, Laravel) 
+- ⭐⭐⭐⭐☆  Database SQL, Oracle 
+- ⭐⭐⭐⭐☆  WindowsForm Programing (C#) 
+- ⭐⭐⭐☆☆   Flutter and React Native 
+- ⭐⭐⭐☆☆   Flutter and React Native 
+- ⭐⭐☆☆☆    SwiftUI
 
 ## Lerning
 -Flutter Lib
