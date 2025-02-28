@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ## 💻 In Progress Project
-![Progress](https://progress-bar.dev/70/)
+
+[Progress](https://progress-bar.dev/70/)
 
 
 <!--
