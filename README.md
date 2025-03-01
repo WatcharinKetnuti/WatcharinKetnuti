@@ -31,3 +31,4 @@
 - Security system
 - System testing
 - NoSQL
+- AI
